@@ -1,4 +1,4 @@
-class overloadc{
+class MainOverloading{
     void sum(int a, long b){
         System.out.println(a+b);
     }
