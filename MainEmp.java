@@ -31,7 +31,7 @@ class Teacher extends EmployeeT{
     }
 }
 
-public class Main{
+public class MainEmp{
     public static void main(String[] args){
         System.out.println("enter number of teacher : ");
         Scanner sc = new Scanner(System.in);
