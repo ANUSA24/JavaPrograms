@@ -35,7 +35,7 @@ class Fiction extends Book{
         System.out.println("Publisher : "+this.publisher.publisher);
     }
 }
-public class pub{
+public class MainPub{
     public static void main(String[] args){
         Publisher lp = new Publisher("S.Chand");
         Literature l = new Literature("As You Like It", lp);
